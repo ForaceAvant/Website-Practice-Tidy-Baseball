@@ -24,13 +24,13 @@
     margin-left: 20px;
     cursor: pointer;
     text-decoration: none;
-    font-size: 2rem;
+    font-size: 1.7rem;
     display: flex;
     align-items: center;
   }
   
-  .fa-typo3 {
-    margin-left: 0.5rem;
+  .fa-baseball-ball {
+    margin-left: 0.3rem;
     font-size: 1.8rem;
   }
   
