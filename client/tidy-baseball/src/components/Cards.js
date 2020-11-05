@@ -26,21 +26,21 @@ function Cards() {
                     <ul className="cards__items">
                         <CardItem 
                         src='images/img-3.jpg'
-                        text="Here is some default text that I need to change in cards"
-                        label='Baseball'
-                        path='/services'
-                        />
-                        <CardItem 
-                        src='images/img-4.jpg'
-                        text="Here is some default text that I need to change in cards"
-                        label='Baseball numba 2'
-                        path='/services'
+                        text="We also provide equiptment for you to do it yourself!"
+                        label='Field Equipment'
+                        path='/products'
                         />
                         <CardItem 
                         src='images/img-5.jpg'
-                        text="Here is some default text that I need to change in cards"
-                        label='Baseball numba 2'
-                        path='/services'
+                        text="Check out some of our motorized equiptment"
+                        label='Field Equipment'
+                        path='/products'
+                        />
+                        <CardItem 
+                        src='images/img-4.jpg'
+                        text="We even have additions to attach to equiptment you may already have!"
+                        label='Field Equipment'
+                        path='/products'
                         />
                     </ul>
                 </div>
