@@ -6,6 +6,11 @@
   h1 {
     text-align: center;
   }
+
+  h3 {
+    text-align: center;
+    color: red;
+  }
   
   .cards__container {
     display: flex;
@@ -28,10 +33,11 @@
   .cards__item {
     display: flex;
     flex: 1;
-    margin: 0 1rem;
+    margin: 0 2rem;
     border-radius: 10px;
   }
-  
+
+
   .cards__item__link {
     display: flex;
     flex-flow: column;

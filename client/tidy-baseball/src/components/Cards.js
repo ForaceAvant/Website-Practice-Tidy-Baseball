@@ -7,7 +7,7 @@ function Cards() {
     return (
         <div className="cards">
             <h1>Check out these clean fields!</h1>
-            <div className="cards__conatiner">
+            <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                         <CardItem 
